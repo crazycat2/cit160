@@ -1,0 +1,86 @@
+body {
+	background-image: url("http://www.lawnspecialist.co.uk/userfiles/images/group_backgrounds/lawn.jpg");
+}
+
+#section1 {
+	background-color:#b3d9ff;
+	height: 600px;
+	width: 300px;
+	top: 20px;
+	left: 40px;
+	position: absolute;
+	border-style: solid;
+	border-color:#4da6ff;
+	border-width:20px;
+	text-align: center;
+
+}
+
+#section2 {
+	background-color:#b3d9ff;
+	height: 600px;
+	width: 700px;
+	top:20px;
+	left:400px;
+	position: absolute;
+	border-style: solid;
+	border-color:#4da6ff;
+	border-width:20px;
+	text-align:center;
+
+
+}
+
+
+#section3 {
+	background-color:#b3d9ff;
+	height: 600px;
+	width: 700px;
+	top:20px;
+	left:400px;
+	position: absolute;
+	border-style: solid;
+	border-color:#4da6ff;
+	border-width:20px;
+
+
+}
+
+
+
+
+#Result_Display {
+	height:40px;
+	width:100px;
+	background-color:#96DFE6;
+	border-style:solid;
+	border-width:3px;
+	border-color: #01717B;
+	margin: 0 auto;
+	text-align:center;
+}
+
+#Result_Display2 {
+	height:300px;
+	width:300px;
+	background-color:#96DFE6;
+	border-style:solid;
+	border-width:3px;
+	border-color: #01717B;
+	margin: 0 auto;
+	text-align:center;
+}
+
+
+h1 {
+	color:#004466;
+}
+
+h2 {
+	color:#400080;
+	text-shadow: 2px 2px #FFFFFF;
+	font-size:20px;
+}
+p {
+	text-indent:50px;
+}
